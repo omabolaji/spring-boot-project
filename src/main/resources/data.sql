@@ -1,0 +1,6 @@
+insert into user values(10001, sysdate, 'bolaji')
+insert into user values(10002, sysdate, 'folake')
+insert into user values(10003, sysdate, 'dami')
+insert into post values(11001, 'my first blog', 10003)
+insert into post values(11002, 'my second blog', 10003)
+insert into post values(11003, 'my third blog', 10003)
